@@ -1,1 +1,1 @@
-hello from both main and branch
+hello from both main and branch. this is new line
